@@ -1,0 +1,17 @@
+_schema-version: "3.2"
+ID: HC_MABE
+version: 0.0.1
+modules:
+- name: MABE_HDB
+  type: hdb
+  path: MABE_HDB
+  requires:
+  - name: hdi_MABE_HDB
+resources:
+- name: hdi_MABE_HDB
+  type: com.sap.xs.hdi-container
+  parameters:
+    config:
+      schema: MABE_IOT
+  properties:
+    hdi-container-name: ${service-name}
