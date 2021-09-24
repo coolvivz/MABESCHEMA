@@ -1,0 +1,2544 @@
+{
+    "role": {
+        "name": "dev_iot.iot.data::PublicAccessObjects",
+        "object_privileges": [
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F12_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0002_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2031_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5101_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F04_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_RUN_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_SHWM_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_CMPR_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_WSHR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_LIMS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_PR400_THERMISTOR_FF",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ERDS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X000E",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F00",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F01",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F03",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F02",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F04",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F05",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F07",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F06",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F08",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F09",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202D_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X510A_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F02_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0008_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICATION_SEPEAKER_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F00_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5107_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0E_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_LOCK_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_OVEN_OPRN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_TMPE_LVEL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_VLVE_RLAY_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::RANGE_OVEN_CYCLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_CYCE_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DOOR_LID_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DSPR_PUMP_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_AMB_THRR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_DSPY",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_MEAT_SNSC",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_HPLC_SLCD",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_LINE_FRQY",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_COMPRESSOR_CYCLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_DVCE_CONN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5F01",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5F00",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5F02",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2007",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::NOTIFICATION_NOTIFICATION",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F13_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F05_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0103_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0004_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1101_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5110_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_MODE_SHFR_STTS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_TRBO_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_WTER_LVEL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_ALRM_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_CMPR_STTS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_HTER",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1F00",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1F01",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1F02",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0A",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0B",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0D",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0C",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0E",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F0F",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F10",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F11",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F12",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F13",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F15",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2F14",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0034",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5005",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F01_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0F_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X008E_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5108_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_VCTN_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DFRO_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_OVEN_SNDS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_DVCE_ATTR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_AMBIENT_TEMPERATURE_AVG",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::LOG_LOG_TABLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X008E",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0099",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X200A",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2010",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2018",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_HEARTBEAT_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F06_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2018_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2026_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5103_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F14_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F00_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F07_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0A_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_ENVIRONMENT",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_EXTA_SPIN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_JOB_SCHEDULE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_PR100_HOT_FF",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1152",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5100",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5101",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5103",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5104",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5105",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5106",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5108",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5107",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5109",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X5110",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2039_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0099_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F02_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0100_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X000E_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5109_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X110C_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1016_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_OVEN_TEMP_ANST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_SFTY_RLAY_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_SPIN_LVEL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_APPE_TYPE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DOOR_STTS_FF",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DRIN_PUMP_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_FF_THRR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_OVEN_SNSC",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_LID_LOCK_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FRSH_FOOD_LVEL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_DOOR_CYCLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_PR410_THERMISTOR_EVAPORATOR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X202B",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1016",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1101",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1103",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X1109",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2031",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2027",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2026",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F00_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F08_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5104_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2027_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F15_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1103_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5105_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICACION_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1152_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F01_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5005_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0B_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_RCCN_PUMP_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_SOIL_LVEL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_BRAND",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DRNK_EXPS_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_ENRY_SAVE_FNCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X510A",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X200A_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2007_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X110D_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_PRESENCE_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F03_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F11_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0001_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F10_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0034_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5100_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1109_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_MODE_SHFR_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_OVEN_CRRT_OPRN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_RUN_APPN_STTE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_TRCS_RQST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::WASHER_WASHER_CYCLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_EVAP_THRR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_LID_DOOR_LCKD",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::CRM_ZT_IOT_CRM_POSTAL_CODE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_LIMS_SAC",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::FRIDGE_DEFROST_CYCLE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_QUEUE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_IOT_PRESENCE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0001",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0002",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0004",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0007",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0008",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0100",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X0103",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X110C",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X110D",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X202C",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X202D",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD0X2039",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202B_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F02_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2010_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5106_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F09_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0C_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F01_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202C_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0D_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0007_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICATION_PROFILE_KEY",
+                "type": "SEQUENCE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_MNAL_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_OVEN_MEAT_ANST",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_RNSE_SLCN",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_SNSD_WTER_LVEL",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::NOTIFICATION_NOTIFICATION_PROFILE",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::NOTIFICATION_NOTIFICATION_SPEAKER",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_CYCE_SLCD",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_DOOR_STTS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::TX_FLRE_CODE_CLNG_NOSG",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::DM_CSTR_ATTR",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::CRM_ZT_IOT_CRM_STATUS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_IOT_HEARTBEAT",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS_ZT_T_ERD_MAPPINGS",
+                "type": "TABLE",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F12",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F11",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F10",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0F",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0E",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0D",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0C",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0B",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F0A",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F09",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F08",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F07",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F06",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F05",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F04",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F03",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F02",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F01",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD_MAPPINGS",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5F02",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5F01",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5F00",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5110",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X510A",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5109",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5108",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5107",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5106",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5105",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5104",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5103",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5101",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5100",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X5005",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F15",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F14",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F13",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1103",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1101",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1016",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0103",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0100",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0099",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X008E",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0034",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X000E",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0008",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0007",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0004",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0002",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X0001",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_IOT_PRESENCE",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_IOT_HEARTBEAT",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.QUEUE",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ERDS",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS",
+                "type": "Context",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2F00",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2039",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2031",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X202D",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X202C",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X202B",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2027",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2026",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2018",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1109",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X110C",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X110D",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1152",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1F00",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1F01",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X1F02",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2007",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X200A",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data::MABE_AWS.ZT_T_ERD0X2010",
+                "type": "Entity",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0001_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0002_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0004_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0007_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0008_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X000E_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0034_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X008E_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0099_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0100_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X0103_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1016_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1101_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1103_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1109_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X110C_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X110D_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1152_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F00_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F01_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X1F02_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2007_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X200A_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2010_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2018_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2026_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2027_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202B_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202C_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X202D_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2031_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2039_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F00_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F01_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F02_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F03_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F04_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F05_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F06_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F07_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F08_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F09_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0A_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0B_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0C_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0D_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0E_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F0F_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F10_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F11_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F12_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F13_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F14_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X2F15_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5005_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5100_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5101_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5103_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5104_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5105_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5106_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5107_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5108_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5109_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X510A_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5110_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F00_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F01_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_ERD0X5F02_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_HEARTBEAT_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICACION_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICATION_PROFILE_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_NOTIFICATION_SEPEAKER_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            },
+            {
+                "name": "dev_iot.iot.data.sequences::ZS_IOT_PRESENCE_KEY",
+                "privileges": [
+                    "SELECT"
+                ]
+            }
+        ]
+    }
+}
